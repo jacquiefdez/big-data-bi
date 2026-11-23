@@ -1,1 +1,2 @@
-# BD-23-11
+# Curso de BIG DATA y BI
+## Hello, soy Jacquie y estoy en el curso de Big Data de IronHack
